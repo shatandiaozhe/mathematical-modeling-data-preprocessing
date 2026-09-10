@@ -1,0 +1,18 @@
+# 原始题目与附件不纳入本仓库
+/C题.pdf
+/附件(1).zip
+/附件(1)/
+/working/附件解压/
+/working/附件结构审计.json
+
+# 本地运行环境与缓存
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+.tools/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
